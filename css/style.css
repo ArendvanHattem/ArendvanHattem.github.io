@@ -36,7 +36,6 @@ margin-right: 5px;
 
 ul li a:hover{
 color: cyan;
-background-color: white;
 }
 
 .container{
@@ -62,7 +61,7 @@ header{
 
 nav{
     float: left;
-    width: 30%;
+    width: 40%;
     height: 200px;
     background:#000000 ;
     padding:20px;
