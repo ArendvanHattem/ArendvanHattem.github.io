@@ -16,7 +16,7 @@ background-size: cover;
 ul{
 color:rgb(13, 255, 0);
 list-style:none ;
-padding-left: 25px;
+padding-left: 15px;
 font-size: larger;
 }
 ul li{
@@ -31,7 +31,7 @@ padding-top: 10px;
 font-size:larger;
 background-color: black;
 border-radius: 10cm;
-margin-right: 5px;
+margin-right: 15px;
 }
 
 ul li a:hover{
