@@ -24,10 +24,10 @@ ul li{
 }
 
 ul li a{
-padding-left: 20px;
-padding-right: 20px;
-padding-bottom: 20px;
-padding-top: 20px;
+padding-left: 15px;
+padding-right: 15px;
+padding-bottom: 10px;
+padding-top: 10px;
 font-size:larger;
 background-color: black;
 border-radius: 10cm;
