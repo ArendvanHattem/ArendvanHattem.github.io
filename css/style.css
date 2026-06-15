@@ -12,10 +12,10 @@ background-image:url(../images/mountain.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 text-shadow: 
-    -0.2px -0.2px 0 white,
-    0.2px -0.2px 0 white,
-    -0.2px 0.2px 0 white,
-    0.2px 0.2px 0 white;
+    -0.3px -0.3px 0 white,
+    0.3px -0.3px 0 white,
+    -0.3px 0.3px 0 white,
+    0.3px 0.3px 0 white;
 }
 
 ul{
