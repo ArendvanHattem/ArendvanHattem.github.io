@@ -11,7 +11,6 @@ body {
 background-image:url(../images/mountain.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.7);
 }
 
 ul{
@@ -81,6 +80,11 @@ article{
     height: 200px;
 }
 
+p {
+   text-shadow: 2px 2px 4px rgba(255, 255, 255, 1);
+}
+
+    
 p a {
     color: black;
     text-decoration: none;
