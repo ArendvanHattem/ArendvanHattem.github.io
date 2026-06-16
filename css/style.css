@@ -14,7 +14,7 @@ background-size: cover;
 }
 
 .description {
-    -webkit-text-stroke: 0.1px white;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
 }
 
 ul{
