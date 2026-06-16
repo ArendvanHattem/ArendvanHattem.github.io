@@ -14,7 +14,7 @@ background-size: cover;
 }
 
 .description {
--webkit-text-stroke: 3px white;
+-webkit-text-stroke: 2.5px white;
 paint-order: stroke fill;
 }
 
