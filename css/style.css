@@ -16,12 +16,20 @@ background-size: cover;
 .description{
     text-shadow: 
         -0.4px -0.4px 0 white,
+        -0.4px -0.2px 0 white,
+        -0.2px -0.4px 0 white,
         -0.4px 0px 0 white,
         0px -0.4px 0 white,
+        -0.4px 0.2px 0 white,
+        0.2px -0.4px 0 white,
         -0.4px 0.4px 0 white,
         0.4px -0.4px 0 white,
+        -0.2px 0.4px 0 white,
+        0.4px -0.2px 0 white,
         0px 0.4px 0 white,
         0.4px 0px 0 white,
+        0.4px 0.2px 0 white,
+        0.2px 0.4px 0 white,
         0.4px 0.4px 0 white
 }
 
