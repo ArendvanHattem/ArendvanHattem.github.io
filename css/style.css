@@ -15,10 +15,10 @@ background-size: cover;
 
 .description{
     text-shadow: 
-        -0.3px -0.3px 0 white,
-        0.3px -0.3px 0 white,
-        -0.3px 0.3px 0 white,
-        0.3px 0.3px 0 white;
+        -0.4px -0.3px 0 white,
+        0.4px -0.3px 0 white,
+        -0.4px 0.3px 0 white,
+        0.4px 0.3px 0 white;
 }
 
 ul{
